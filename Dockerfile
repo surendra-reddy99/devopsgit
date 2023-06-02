@@ -1,2 +1,2 @@
 FROM ubuntu:latest
-RUN apt install git
+RUN yum install git 
